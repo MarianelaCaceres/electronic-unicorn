@@ -16,4 +16,4 @@ Este repositorio contiene los scripts SQL para la creación y gestión de una ba
 ## Configuración
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/mi-repo-sql.git
+   git clone https://github.com/MarianelaCaceres/electronic-unicorn.git
