@@ -1,0 +1,15 @@
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar copias locales de la base de datos
+*.db
+*.sqlite
+
+# Ignorar archivos de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos generados por herramientas
+*.bak
+*.backup

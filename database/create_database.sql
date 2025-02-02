@@ -1,0 +1,2 @@
+CREATE DATABASE tienda_online_electronic_unicorn;
+USE tienda_online_electronic_unicorn;
